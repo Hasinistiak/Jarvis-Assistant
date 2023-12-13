@@ -1,0 +1,44 @@
+{
+  "friends": [
+    {
+      "name": "Rahbar",
+      "birthday": "2023-10-18"
+    },
+    {
+      "name": "Aiman Appi",
+      "birthday": "2023-10-24"
+    },
+    {
+      "name": "Tawsif",
+      "birthday": "2024-05-02"
+    },
+    {
+      "name": "Rahat",
+      "birthday": "2023-12-06"
+    },
+    {
+      "name": "Mahtab",
+      "birthday": "2024-03-09"
+    },
+    {
+      "name": "Aaraf",
+      "birthday": "2024-07-25"
+    },
+    {
+      "name": "nafis",
+      "birthday": "2024-02-22"
+    },
+    {
+      "name": "Zami",
+      "birthday": "2024-6-15"
+    },
+    {
+      "name": "Abrar",
+      "birthday": "2024-2-29"
+    },
+    {
+      "name": "Dad",
+      "birthday": "2023-10-20"
+    }
+  ]
+}

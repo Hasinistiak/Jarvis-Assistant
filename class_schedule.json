@@ -1,0 +1,12 @@
+{
+    "schedule": [
+      {"date": "2023-10-17", "class_name": "Bangla 1st", "exam": false},
+      {"date": "2023-10-19", "class_name": "Bangla 2nd", "exam": false},
+      {"date": "2023-10-20", "class_name": "BGS", "exam": true},
+      {"date": "2023-10-26", "class_name": "BGS", "exam": false},
+      {"date": "2023-10-28", "class_name": "Bangla 2nd", "exam": true},
+      {"date": "2023-10-29", "class_name": "ICT", "exam": true},
+      {"date": "2023-10-31", "class_name": "Bangla 1st and Bangla 2nd", "exam": false}
+    ]
+  }
+  
